@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linkedin-ads.github.io/sitemap.xml
