@@ -19,3 +19,5 @@ This platform earns its place when the person you need to reach is defined by wh
 ---
 
 *This is an independent page about third-party products, with no affiliation to or endorsement from LinkedIn, Microsoft or Hootsuite; all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
